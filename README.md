@@ -48,7 +48,7 @@ A simple and interactive **console-based Snakes and Ladders game** built in Java
 - `Game.java`: Main game logic loop.
 - `MainRunner.java`: Initializes and starts the game.
 
-![Class Diagram]![image](https://github.com/user-attachments/assets/1bd3238f-8a05-463f-9279-c7a7ad80865c)
+![Class Diagram] [image](https://github.com/user-attachments/assets/1bd3238f-8a05-463f-9279-c7a7ad80865c)
 
 
 ---
