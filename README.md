@@ -2,7 +2,6 @@
 
 A simple and interactive **console-based Snakes and Ladders game** built in Java. This game simulates multiple players rolling a dice and moving on a 10x10 board while encountering snakes 🐍 and ladders 🪜.
 
-![Game Banner](images/banner.png)
 
 ---
 
